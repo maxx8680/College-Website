@@ -1,0 +1,72 @@
+[
+  {
+    "id": "notice001",
+    "type": "Notice",
+    "title": "Semester V & VI Examination Timetable Published",
+    "date": "2025-10-28",
+    "description": "The detailed timetable for the upcoming B.A, B.Com, B.Sc Semester V & VI examinations has been published. Students are advised to check the 'Student Zone' page or the college notice board.",
+    "link": "student-zone.html#timetable",
+    "image": "/campus.jpg",
+    "isNew": true,
+    "category": "Academics"
+  },
+  {
+    "id": "event001",
+    "type": "Event",
+    "title": "Annual Cultural Fest 'Yuvotsav 2025'",
+    "date": "2025-12-20",
+    "endDate": "2025-12-22",
+    "description": "Get ready for 'Yuvotsav 2025', our annual cultural festival! Join us for three days of vibrant performances, competitions, and fun. Detailed schedule will be released soon.",
+    "link": "events-notices.html#event001-details",
+    "image": "assets/images/events/yuvotsav-banner.jpg",
+    "isUpcoming": true,
+    "category": "Cultural"
+  },
+  {
+    "id": "notice002",
+    "type": "Notice",
+    "title": "Library Books Due Date Extension",
+    "date": "2025-11-05",
+    "description": "The due date for all library books issued before October 15th, 2025, has been extended to November 30th, 2025, without any late fees.",
+    "link": null,
+    "image": "assets/images/notices/library-notice.jpg",
+    "isNew": true,
+    "category": "Library"
+  },
+  {
+    "id": "event002",
+    "type": "Event",
+    "title": "Guest Lecture: AI & Future Technologies",
+    "date": "2025-11-28",
+    "time": "11:00 AM - 01:00 PM",
+    "venue": "College Auditorium",
+    "description": "A guest lecture by Dr. Anya Sharma, a leading AI researcher, on 'Artificial Intelligence and Future Technologies'. Open for all students and faculty. Pre-registration recommended.",
+    "link": "events-notices.html#event002-details",
+    "image": "assets/images/events/guest-lecture-ai.jpg",
+    "isUpcoming": true,
+    "category": "Workshop"
+  },
+  {
+    "id": "notice003",
+    "type": "Notice",
+    "title": "Scholarship Application Deadline Approaching",
+    "date": "2025-11-10",
+    "description": "The deadline for submitting applications for various government and institutional scholarships for the academic year 2025-26 is November 25th, 2025. Ensure all documents are submitted on time.",
+    "link": "student-zone.html#scholarships",
+    "image": "assets/images/notices/scholarship-notice.jpg",
+    "isNew": false,
+    "category": "Academics"
+  },
+  {
+    "id": "event003",
+    "type": "Event",
+    "title": "Annual Sports Meet",
+    "date": "2026-01-15",
+    "endDate": "2026-01-17",
+    "description": "The much-awaited Annual Sports Meet is here! Participate in various track and field events, team sports, and showcase your athletic prowess. Registrations open from Dec 1st.",
+    "link": "events-notices.html#event003-details",
+    "image": "assets/images/events/sports-meet.jpg",
+    "isUpcoming": true,
+    "category": "Sports"
+  }
+]
