@@ -706,7 +706,7 @@
 
         // Placeholder for news ticker items loading in script.js
         const newsTickerList = document.getElementById("news-ticker-list");
-        fetch("/data/notices.json")
+        fetch("data/notices.json")
             .then((response) => response.json())
             .then((data) => {
                 if (data.latestNotices && data.latestNotices.length > 0) {
